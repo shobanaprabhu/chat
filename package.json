@@ -1,0 +1,21 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "4.0.1",
+    "async": "2.5.0",
+    "aws-sdk": "2.224.1",
+    "dialogflow": "^1.1.2",
+    "request": "2.75.0",
+    "uuid": "^3.0.1",
+    "websocket": "1.0.18"
+  }
+}
